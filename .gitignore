@@ -4,6 +4,7 @@
 venv
 
 # octofit tracker app
+octofit-mongo-data/
 # octfit-tracker
 
 # React node_modules
